@@ -1,2 +1,5 @@
-# OpenCV-Practice
-The repository contains template codes I implemented as practice
+# Computer Vision- OpenCV
+
+
+The repository contains Computer Vision Work in OpenCV.
+
